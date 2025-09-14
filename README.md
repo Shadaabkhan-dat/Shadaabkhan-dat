@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shadaab
-- 👀 I’m interested in ...analyzing and working on data
-- 🌱 I’m currently learning ...Machine Learning
-- 📫 How to reach me ... shadaabk08@gmail.com
-- 😄 Pronouns: ...Shaddy
+-  Hi, I’m Shadaab
+-  I’m interested in ...analyzing and working on data
+-  I’m currently learning ...Machine Learning
+-  How to reach me ... shadaabk08@gmail.com
+-  Pronouns: ...Shaddy
 
 
 <!---
